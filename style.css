@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+
+body{
+    width: 100%;
+    background: #e0e3eb;
+    color: #000e1a;
+}
+
+form{
+    top: 230px;
+    background-color: #fff;
+    position: absolute;
+    width: 320px;
+    height: 270px;
+    padding: 10px 5px 20px 5px;
+    margin: -10vh 650px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px -7px;
+}
+
+input[type='text'], input[type='password']{
+    display: block;
+    background-color: #fff;
+    margin: auto;
+    border-color: #e0e3eb;
+    border: 1.5 px solid rgba(200, 200, 200);
+    width: 200px;
+    padding: 10px 50px;
+    border-radius: 5px;
+    text-align: center;
+    color: #000;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+}
+
+button{
+    border: none;
+    background-color: #1472f5;
+    color: #fff;
+    margin: auto;
+    width: 285px;
+    display: block;
+    border-radius: 4px;
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
+.fpass{
+    display: block;
+    width: 200px;
+    margin: auto;
+    color: #1472f5;
+    padding-left: 80px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+}
+
+.xett{
+    border-top:  blue;
+    opacity: 0.3;
+}
+
+.buttony{
+    width: 180px;
+    font-size: 15px;
+    background-color: #42be2a;
+    text-align: center;
+}
+
+.create p{
+    width: 400px;
+    position: relative;
+    color: #000000;
+    font-family: '';
+    padding: 160px 650px;
+}
+
+.create a{
+    color: #000000;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.container{
+    width: 350px;
+    margin-left: 220px;
+    margin-top: 30vh;
+    font-family: 'Segoe UI';
+}
+
+.pp{
+    font-size: 20px;
+    font-weight: 600;
+    word-spacing: 3px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.h1{
+    margin-left: 10px;
+}
+
